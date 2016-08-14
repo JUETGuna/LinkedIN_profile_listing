@@ -1,6 +1,5 @@
 # LinkedIN_profile_listing
 
-
 ##Faculty_LinkedIn_Profile
 ###Department Wise Listing
  
@@ -32,4 +31,4 @@
 Add Your Profiles On basis of Enrollment_Number 
 ```
 
- > For adding your **LinkedIN profile** [Click here](https://github.com/JUETGuna/Students_on_Github/edit/master/README.md)
+
