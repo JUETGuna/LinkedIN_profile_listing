@@ -1,5 +1,7 @@
 # LinkedIN_profile_listing
 
+ > For adding your **LinkedIN profile** [Click here](https://github.com/JUETGuna/Students_on_Github/edit/master/README.md)
+ 
 ##Faculty_LinkedIn_Profile
 ###Department Wise Listing
  
